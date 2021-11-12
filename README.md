@@ -10,7 +10,7 @@ I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so 
   <img align="right" alt="GIF" src="https://github.com/super1114/super1114/blob/main/github.png?raw=true" width="450" height="320" />
   
 - 💼 Do reach, [email](mailto:milan.pavkov.po@gmail.com) :)
-- <a href="linkedin.com/in/milan-pavkov/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="milan-pavkov" height="15" width="15" margin-right="4"/></a> connect via Linkedin!
+- <a href="linkedin.com/in/milan-pavkov/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="milan-pavkov" height="15" width="15" margin-right="10"/></a> connect via Linkedin!
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
