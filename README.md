@@ -2,8 +2,8 @@
 
 <br />
 
-Hi, I am a full-stack developer having more than 8+ years of experience in building web and mobile applications. 
-
+Hi! I am a full-stack developer having more than 8+ years of experience in building web and mobile applications. 
+I'm a full stack, polyglot developer who is constantly learning how to make web/hybrid apps faster, leaner, and perfectly designed. 
 I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so far.
 
 
@@ -20,16 +20,6 @@ I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="NodeJS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" title="Firebase"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Rust+Solana      15 hrs 11 mins  39.34 %
-Solidty+Truffle+HardHat+Web3.js      10 hrs 11 mins  39.34 % 
-React+Redux+Next      5 hrs 11 mins  39.34 % 
-Vue+Vuex+Nuxt         5 hr 33 mins   33.54 % 
-GraphQL               3hr 24 mins     11.51 % 
-```
-<!--END_SECTION:waka-->
 
 
 
@@ -38,6 +28,8 @@ GraphQL               3hr 24 mins     11.51 %
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Quasar-informational?style=flat&logo=quasar&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
