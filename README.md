@@ -2,14 +2,14 @@
 
 <br />
 
-Hi, I'm a passionate self-taught Blockchain engineer and Front-End developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I am a full-stack developer having more than 8+ years of experience in building web and mobile applications. 
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so far.
 
 
   <img align="right" alt="GIF" src="https://github.com/super1114/super1114/blob/main/github.png?raw=true" width="450" height="320" />
   
-- 💼 Do reach, [email](mailto:albertomira1114@gmail.com) :)
+- 💼 Do reach, [email](mailto:milan.pavkov.po@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
