@@ -2,14 +2,15 @@
 
 <br />
 
-Hi! I am a full-stack developer having more than 8+ years of experience in building web and mobile applications. 
-I'm a full stack, polyglot developer who is constantly learning how to make web/hybrid apps faster, leaner, and perfectly designed. 
+Hi! I am a full-stack developer having more than 8+ years of experience in building web and mobile applications. <br/>
+I'm a full stack, polyglot developer who is constantly learning how to make web/hybrid apps faster, leaner, and perfectly designed. <br/>
 I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so far.
 
 
   <img align="right" alt="GIF" src="https://github.com/super1114/super1114/blob/main/github.png?raw=true" width="450" height="320" />
   
 - 💼 Do reach, [email](mailto:milan.pavkov.po@gmail.com) :)
+- <a href="linkedin.com/in/milan-pavkov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-pavkov" height="30" width="40" /></a>
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
