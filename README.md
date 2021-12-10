@@ -24,10 +24,13 @@ I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so 
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [10+ New and Improved Android 12 Features You Must Know](https://milan-pavkov.web.app/#blog)
+- [30 Common Reactions Programmers Have When Things Go Wrong](https://milan-pavkov.web.app/#blog)
+- [How to Refactor CSS – A Guide](https://milan-pavkov.web.app/#blog)
+<!-- BLOG-POST-LIST:END -->
 
 
 
