@@ -2,9 +2,17 @@
 
 <br />
 
-Hi! I am a full-stack developer having more than 8+ years of experience in building web and mobile applications. <br/>
-I'm a full stack, polyglot developer who is constantly learning how to make web/hybrid apps faster, leaner, and perfectly designed. <br/>
-I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so far.
+Software engineer with 9 years of experience building lightning-fast and massively scalable websites, web apps, REST APIs, socket servers, and databases with elegantly clear and succinct code, automated tests, and data-analysis. <br><br>
+
+-> Test automation fanatic. <br>
+-> Creative problem-solver.<br>
+-> Honest and open-minded team player. <br>
+-> Humble and respectful chill person. <br>
+-> Writes code that reads like poetry. <br><br>
+
+Interested in all programming languages, but my mains are JavaScript and TypeScript.<br><br>
+
+TDD, pair programming, and playing tennis are some other things I like to do.<br>
 
 
   <img align="right" alt="GIF" src="https://github.com/super1114/super1114/blob/main/github.png?raw=true" width="450" height="320" />
