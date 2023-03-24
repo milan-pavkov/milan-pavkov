@@ -14,13 +14,6 @@ Interested in all programming languages, but my mains are JavaScript and TypeScr
 
 TDD, pair programming, and playing tennis are some other things I like to do.<br>
 
-
-  <img align="right" alt="GIF" src="https://github.com/super1114/super1114/blob/main/github.png?raw=true" width="450" height="320" />
-  
-- 💼 Do reach, [email](mailto:milan.pavkov.po@gmail.com) :)
-- <a href="https://linkedin.com/in/milan-pavkov/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="milan-pavkov" height="20" width="20"/></a>    Connect via Linkedin!
-- 💬 Ask me about anything, I am happy to help;
-
 **Languages and Tools:**  
 
 <p align="left">
@@ -40,14 +33,6 @@ TDD, pair programming, and playing tennis are some other things I like to do.<br
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
     </p>
-
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [You know you needed this apps for your phone?](https://milan-pavkov.web.app/#blog)
-- [What programmers do when things go in the wrong way](https://milan-pavkov.web.app/#blog)
-- [What to do after writing all your CSS?](https://milan-pavkov.web.app/#blog)
-<!-- BLOG-POST-LIST:END -->
-
 
 
 
